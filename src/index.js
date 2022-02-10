@@ -58,5 +58,5 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   const updateBreedColor = (event) => {
-    event.target.style.color = 'blue'
+    event.target.style.color = 'purple'
   }
